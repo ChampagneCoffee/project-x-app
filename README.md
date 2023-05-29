@@ -1,6 +1,66 @@
-# Getting Started with Create React App
+# Project X App
+The project consists of a web application that includes a navigation bar, a footer, a home page, and a courses page. The application is built using React, HTML, and CSS.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requirements
+Installation
+Usage
+Features
+Technologies
+Contributing
+License
+Installation
+To install and run the project locally, follow these steps:
+
+### Clone the repository to your local machine.
+Navigate to the project directory.
+Install the required dependencies by running the command: npm install.
+Start the development server by running the command: npm start.
+If you want to clone the repository you need to put the project name and git clone in the terminal. E.g. git@github.com:ChampagneCoffee/project-x-app.git
+
+### Usage
+Once the project is installed and running, you can access it by opening your web browser and navigating to the specified URL. The application includes the following components:
+
+- Navigation Bar:
+Allows users to navigate between different pages of the application.
+-  Home Page:
+Displays a hero section with a background image and testimonials.
+-  Courses Page:
+-Shows a collection of video tutorials using YouTube embeds.
+- Footer:
+Contains various links and social media icons.
+Feel free to explore the different pages and interact with the components.
+
+### Features
+The project includes the following features:
+
+-Responsive Design: The application is designed to be responsive and work well on different screen sizes.
+-Navigation Bar: Provides easy navigation between different pages of the application.
+-Hero Section: The home page includes a visually appealing hero section with a background image.
+-Courses Grid: The courses page displays a grid of video tutorials using YouTube embeds.
+-Footer: The footer includes links to resources, subjects, partners, and additional information.
+
+### Technologies
+The project is built using the following technologies:
+
+-React: A JavaScript library for building user interfaces.
+-HTML: The markup language used for structuring the web pages.
+-CSS: The styling language used for designing the appearance of the web pages.
+
+### Contributing
+Contributions to the project are welcome. If you would like to contribute, please follow these steps:
+
+### Fork the repository.
+-Create a new branch for your contribution.
+-Make the necessary changes and commit them.
+-Push your changes to your forked repository.
+-Submit a pull request explaining your changes.
+
+### License
+The project is licensed under the MIT License. You can find more details in the LICENSE file.
+
+
+
+
 
 ## Available Scripts
 
